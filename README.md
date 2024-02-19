@@ -1,2 +1,2 @@
 # Assignment
-Assignment solution
+The python script and some screeshot of output
